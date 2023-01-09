@@ -49,10 +49,11 @@
 
 }
 
-.content .btn {
+ .content .btn {
     margin: 1rem 0 rem;
     align-items: center;
-}
+    border-radius: 15px 15px;
+} 
 
 @media screen and (max-width:640px) {
     .hero .content h1 {

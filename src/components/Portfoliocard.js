@@ -11,10 +11,10 @@ const Portfoliocard = (props) => {
         <div className="pro-details">
             <p>{props.text}</p>
             <div className="pro-btns"></div>
-            <NavLink to= {props.website}
-            className="btn">Website</NavLink>
-            <NavLink to= {props.github}
-            className="btn">GitHub</NavLink>
+            <a href= {props.website}
+            className="btn">Website</a>
+            <a href= {props.github}
+            className="btn">GitHub</a>
         </div> 
 
         </div> 

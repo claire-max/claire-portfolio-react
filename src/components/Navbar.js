@@ -1,7 +1,7 @@
 import "./NavbarStyle.css"
 import {FaBars, FaTimes } from "react-icons/fa";
-import React, {useState} from 'react'
-import {Link} from "react-router-dom"
+import React, {useState} from 'react';
+import {Link} from "react-router-dom";
 
 const NavBar = () => {
 
@@ -33,6 +33,7 @@ const NavBar = () => {
         <li>
           <Link to="/projects">Projects</Link>
         </li>
+        <Link to="./resume">Resume</Link>
         <li>
           <Link to="/contact">Contact</Link>
         </li>

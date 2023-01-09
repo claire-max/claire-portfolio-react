@@ -1,12 +1,15 @@
 import React from 'react';
+import "../components/resumestyle.css"
+import Card from 'react-bootstrap/Card';
 
 function Resume() {
   return (
-    <section className="my-5">
+    <div className="my-5">
       <div className="my-2">
       <p>
         Download my <a href="">resume</a>
         </p>
+        <Card body >
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
           <li>HTML</li>
@@ -17,6 +20,7 @@ function Resume() {
           <li>React</li>
           <li>Bootstrap</li>
         </ul>
+        </Card>
         <h3>Back-end Proficiencies</h3>
         <ul className="skills">
           <li>APIs</li>
@@ -27,8 +31,8 @@ function Resume() {
           <li>GraphQL</li>
         </ul>
       </div>
-    </section>
+    </div>
   );
 }
 
-export default Resume;
+ export default Resume;

@@ -1,7 +1,7 @@
 import "./backimgstyle.css";
 import {Link} from "react-router-dom";
 import React from 'react'
-import FrontImg from "../assets/img/Back.jpg"
+import FrontImg from "../assets/img/Back.jpg";
 
 const backimg = () => {
   return (
@@ -22,4 +22,4 @@ const backimg = () => {
   )
 }
 
-export default backimg
+export default backimg;
