@@ -30,10 +30,10 @@ const Footer = () => {
         <div className="right">
             <h4>Let's Connect</h4>
             <div className="social">
-            <a href="http://www.google.com"><FaGithub size={30} style={
+            <a href="https://github.com/claire-max"><FaGithub size={30} style={
             {color:"#fff", marginRight:"1rem" }}/></a>
-             <FaLinkedin size={30} style={
-            {color:"#fff", marginRight:"1rem" }}/>
+             <a href="http://www.linkedin.com/in/claire-freeman-958b16156"><FaLinkedin size={30} style={
+            {color:"#fff", marginRight:"1rem" }}/></a>
             </div>
         </div>
       </div>
