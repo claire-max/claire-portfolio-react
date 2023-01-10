@@ -13,11 +13,11 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/" element={<Home/>} />
-      <Route path="/about" element={<About/>} />
-      <Route path="/projects" element={<Projects/>} />
-      <Route path="/resume" element={<Resume/>} />  
-      <Route path="/contact" element={<Contact/>} />
+      <Route path="/claire-portfolio-react/" element={<Home/>} />
+      <Route path="/claire-portfolio-react/about" element={<About/>} />
+      <Route path="/claire-portfolio-react/projects" element={<Projects/>} />
+      <Route path="/claire-portfolio-react/resume" element={<Resume/>} />  
+      <Route path="/claire-portfolio-react/contact" element={<Contact/>} />
     </Routes>
     </>
   );
