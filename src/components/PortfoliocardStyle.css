@@ -31,12 +31,18 @@
 
 .pro-btns {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 0.5rem 0;
+
+    
 }
 
 .pro-btns .btns {
     padding: 0.5rem 1rem;
+        border-radius: 15px 15px;
+        text-align: center;
+
+    
 }
 
 .project-card img {

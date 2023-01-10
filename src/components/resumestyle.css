@@ -2,16 +2,18 @@
     color: white;
 }
 
-h3 {
+h6 {
+    background-color: rgb(88, 117, 88) ;
     color: white;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
 }
 
-
-.card .title {
+.buttonresume {
+    border-radius: 20px 20px;
     color: white;
-}
-
-.btn {
-  background-color:  rgb(88, 117, 88);
-  border-radius: 15px 15px;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
 }

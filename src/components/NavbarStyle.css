@@ -16,6 +16,11 @@
 
 .nav-bar {
     display: flex;
+
+}
+
+.nav-bar:hover {
+   color:aquamarine;
 }
 
 .nav-bar li {
