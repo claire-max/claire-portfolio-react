@@ -1,41 +1,42 @@
-.project-heading {
+   .project-heading {
     text-align: center;
     padding: 4rem 0 2rem 0;
-}
+} 
 
 .project-container {
     max-width: 1140px;
     margin:auto;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-gap: 40px;
+    grid-gap: 40px; 
     padding-bottom: 5rem;
-}
+} 
 
 .project-card {
     background: grey;
     padding: 1.2rem 1rem;
-}
+    border-radius: 15px 15px;
 
-.project-title {
+} 
+
+ .project-title {
     color: white;
     padding:1rem 0;
     text-align: center;
-}
+} 
 
-.pro-details p {
+ .pro-details p {
     padding-bottom: 1rem;
     font-size:1.1rem;
     text-align: justify;
-}
+} 
 
-.pro-btns {
+ .pro-btns {
     display: flex;
     justify-content: space-evenly;
     padding: 0.5rem 0;
-
-    
-}
+  
+} 
 
 .pro-btns .btns {
     padding: 0.5rem 1rem;
@@ -58,8 +59,8 @@
     }
 }
 
- .btn {
+  .btn {
     display: block;
     width: 50%;
     margin: 2rem auto;
-}
+}   

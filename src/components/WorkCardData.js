@@ -1,12 +1,12 @@
 import pro1 from "../assets/img/Project1.png";
 import pro2 from "../assets/img/Project2.png";
-import pro3 from "../assets/img/Project3.jpg";
+import pro3 from "../assets/img/Project3.png";
 
 const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Good To Gas",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://claire-max.github.io/urban-sniffle/",
         github:"https://github.com/claire-max/urban-sniffle",
     },
@@ -14,7 +14,7 @@ const ProjectCardData = [
     {
         imgsrc: pro2,
         title: "Gameathon",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://gameathon13.herokuapp.com/",
         github:"https://github.com/claire-max/Gameathon",
     },
@@ -22,7 +22,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: "RobinGoodFoods",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://claire-max.github.io/urban-sniffle/",
         github:"https://github.com/claire-max/RobinGoodFoods",
     },
@@ -30,7 +30,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: "RobinGoodFoods",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://claire-max.github.io/urban-sniffle/",
         github:"https://github.com/claire-max/RobinGoodFoods",
     },
@@ -38,7 +38,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: "RobinGoodFoods",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://claire-max.github.io/urban-sniffle/",
         github:"https://github.com/claire-max/RobinGoodFoods",
     },
@@ -46,7 +46,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: "RobinGoodFoods",
-        text: "vifvlffnofno",
+        text: "",
         website: "https://claire-max.github.io/urban-sniffle/",
         github:"https://github.com/claire-max/RobinGoodFoods",
     },

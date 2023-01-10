@@ -3,7 +3,7 @@
     background-color: black;
     height: 60vh;
     position: relative;
-    opacity: 0.8;
+    opacity: 0.9;
     background-image: url("/Users/claire/Desktop/claire-portfolio-react/src/assets/img/backproject.jpg"); 
     background-size: cover; 
     background-position: center top;
@@ -31,12 +31,14 @@
     align-items: center;
 }
 
-.hero-img p {
-   font-size:1.4rem;
+.hero-img1 p {
+   font: size 1.9rem;
    text-align:center;
+   color:rgb(247, 247, 247);
+   font-weight:bo;
 }
 
-.hero-img h1 {
+.hero-img1 h1 {
     font-size: 2.4rem;
 }
 

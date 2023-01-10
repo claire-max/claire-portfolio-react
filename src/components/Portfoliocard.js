@@ -1,4 +1,6 @@
 import "./PortfoliocardStyle.css";
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 
 
 import React from 'react'
@@ -13,11 +15,10 @@ const Portfoliocard = (props) => {
             <div className="pro-btns"></div>
             <a href= {props.website}
             className="btn">Website</a>
-            <a href= {props.github}
-            className="btn">GitHub</a>
+            {/* <a href= {props.github}
+            className="btn">GitHub</a> */}
         </div> 
-
-        </div> 
+</div>
   );
 };
 
