@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/claire-portfolio-react/static/css/main.624e94c0.css",
+    "main.js": "/claire-portfolio-react/static/js/main.dadea877.js",
+    "static/media/backproject.jpg": "/claire-portfolio-react/static/media/backproject.f1df2d90aa19c6af0aed.jpg",
+    "static/media/Project3.png": "/claire-portfolio-react/static/media/Project3.808ba962f7e85622241b.png",
+    "static/media/Back.jpg": "/claire-portfolio-react/static/media/Back.095e6f70147e30bf4b5d.jpg",
+    "static/media/Project1.png": "/claire-portfolio-react/static/media/Project1.779a8781a49459f8431f.png",
+    "static/media/Avatar.png": "/claire-portfolio-react/static/media/Avatar.15b4f29473f1f8e4eaa1.png",
+    "static/media/Project2.png": "/claire-portfolio-react/static/media/Project2.128100f191948eda53d4.png",
+    "index.html": "/claire-portfolio-react/index.html",
+    "main.624e94c0.css.map": "/claire-portfolio-react/static/css/main.624e94c0.css.map",
+    "main.dadea877.js.map": "/claire-portfolio-react/static/js/main.dadea877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624e94c0.css",
+    "static/js/main.dadea877.js"
+  ]
+}
