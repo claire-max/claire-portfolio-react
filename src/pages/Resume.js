@@ -62,7 +62,7 @@
         <Carousel.Caption>
           <a href= "https://www.linkedin.com/in/claire-freeman-958b16156/" className="btn">Download Resume</a>
           <p>
-Call me, beep me, If you want to reach me.
+
           </p>
         </Carousel.Caption>
       </Carousel.Item>
