@@ -7,19 +7,20 @@ import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
 
-import {Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <>
+    <Router basename='/claire-portfolio-react'>
     <Routes>
       <Route path="/" element={<Home/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/projects" element={<Projects/>} />
       <Route path="/resume" element={<Resume/>} />  
       <Route path="/contact" element={<Contact/>} />
+      <Route path="*" element={<Home/>} />
     </Routes>
-    </>
+    </Router>
   );
 }
 
