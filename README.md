@@ -7,7 +7,7 @@
   * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
+  * [Deployed Link](#deployedlink)
   * [Questions](#questions)
 
   ## License
@@ -15,23 +15,25 @@
   [ISC] (https://opensource.org/licenses/ISC)
 
   ## Description
-This challenge is to build 
+This challenge is to create a portfolio, using my React skills to help set apart from other developers whose portfolios don’t use the latest technologies.
 
 
   ## Installation
   1. Create Claire Portfolio repo.
-  2. Install dependencies using "npm install" 
+  2. Install dependencies 
   * Start the server
-  ```$ npm start```
+  ``` npm start```
   4. Now you are ready to see my portfolio!
 
 
-  ## Usage
 
 
   
    
   ![Alt Text](./src/assets/img/Screenshot.png)
+
+  ## Deployed Link 
+ https://claire-max.github.io/claire-portfolio-react/
 
   ## Questions?
   ### Reach me here: 
