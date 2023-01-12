@@ -4,7 +4,7 @@
     height: 60vh;
     position: relative;
     opacity: 0.9;
-    background-image: url("/Users/claire/Desktop/claire-portfolio-react/src/assets/img/backproject.jpg"); 
+    background-image: url("../assets/img/backproject.jpg"); 
     background-size: cover; 
     background-position: center top;
 }
