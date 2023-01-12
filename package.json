@@ -2,6 +2,7 @@
   "name": "claire-portfolio-react",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -54,6 +55,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/claire-max/claire-portfolio-react/issues"
-  },
-  "homepage": "https://github.com/claire-max/claire-portfolio-react#readme"
+  }
+ 
 }
