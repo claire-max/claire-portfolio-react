@@ -2,13 +2,14 @@
   "name": "claire-portfolio-react",
   "version": "0.1.0",
   "private": true,
-
+  "homepage": "https://claire-max.github.io/claire-portfolio-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
     "bootstrap-3-card": "^0.2.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-bootstrap-buttons": "^1.0.0",
@@ -24,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,7 +49,6 @@
   },
   "description": "## Badges   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/claire-max/claire-portfolio-react.git"
@@ -56,5 +58,4 @@
   "bugs": {
     "url": "https://github.com/claire-max/claire-portfolio-react/issues"
   }
- 
 }
