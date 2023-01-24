@@ -4,6 +4,7 @@
 
  import Footer from "../components/Footer";
  import Carousel from 'react-bootstrap/Carousel';
+ 
  import {FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
  import { DiJqueryLogo } from "react-icons/di";
  import {  BsBootstrap } from "react-icons/bs";
