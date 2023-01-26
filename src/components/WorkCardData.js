@@ -1,6 +1,7 @@
 import pro1 from "../assets/img/Project1.png";
 import pro2 from "../assets/img/Project2.png";
 import pro3 from "../assets/img/Project3.png";
+import pro4 from "../assets/img/Project4.png";
 
 const ProjectCardData = [
     {
@@ -28,11 +29,11 @@ const ProjectCardData = [
     },
 
     {
-        imgsrc: pro3,
-        title: "RobinGoodFoods",
+        imgsrc: pro4,
+        title: "First Portfolio",
         text: "",
-        website: "https://claire-max.github.io/urban-sniffle/",
-        github:"https://github.com/claire-max/RobinGoodFoods",
+        website: "https://claire-max.github.io/ClairePortfolio/",
+        github:"https://github.com/claire-max/ClairePortfolio",
     },
 
     {
