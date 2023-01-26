@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/claire-portfolio-react/static/css/main.be8a1fae.css",
-    "main.js": "/claire-portfolio-react/static/js/main.41f3ddae.js",
+    "main.css": "/claire-portfolio-react/static/css/main.1b056c3c.css",
+    "main.js": "/claire-portfolio-react/static/js/main.ca4ff21c.js",
     "static/media/backproject.jpg": "/claire-portfolio-react/static/media/backproject.f1df2d90aa19c6af0aed.jpg",
     "static/media/Back.jpg": "/claire-portfolio-react/static/media/Back.095e6f70147e30bf4b5d.jpg",
     "static/media/Project3.png": "/claire-portfolio-react/static/media/Project3.8d7992fd0f23c844a1ab.png",
@@ -9,11 +9,11 @@
     "static/media/Avatar.png": "/claire-portfolio-react/static/media/Avatar.15b4f29473f1f8e4eaa1.png",
     "static/media/Project2.png": "/claire-portfolio-react/static/media/Project2.128100f191948eda53d4.png",
     "index.html": "/claire-portfolio-react/index.html",
-    "main.be8a1fae.css.map": "/claire-portfolio-react/static/css/main.be8a1fae.css.map",
-    "main.41f3ddae.js.map": "/claire-portfolio-react/static/js/main.41f3ddae.js.map"
+    "main.1b056c3c.css.map": "/claire-portfolio-react/static/css/main.1b056c3c.css.map",
+    "main.ca4ff21c.js.map": "/claire-portfolio-react/static/js/main.ca4ff21c.js.map"
   },
   "entrypoints": [
-    "static/css/main.be8a1fae.css",
-    "static/js/main.41f3ddae.js"
+    "static/css/main.1b056c3c.css",
+    "static/js/main.ca4ff21c.js"
   ]
 }
