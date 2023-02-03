@@ -29,10 +29,6 @@
 
 .right .img-container {
      display: grid; 
-    /* grid-template-columns: repeat(12, 1fr); */
-    /* position: relative; */
-    /* align-items: center;
-    text-align: center; */
  }  
 
 .right .img {
