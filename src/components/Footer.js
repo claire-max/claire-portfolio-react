@@ -27,12 +27,12 @@ const Footer = () => {
 <section className="footer-info_contactlist">
 <ul className='listitems3'>
                 <li>
-                  <a href='#!' className='cali'>
-                    California,CA 
+                  <a className='cali'>
+                    San Francisco, CA 
                   </a>
                 </li>
                 <li>
-                  <a href='#!' className='text-white'>
+                  <a href='' className='text-white'>
                     clairefreeman528@gmail.com
                   </a>
                 </li>

@@ -20,19 +20,22 @@
 }
 
 .homehov:hover {
-    color:rgb(197, 184, 184);  
+    color:rgb(59, 73, 59); 
+    
 }
 
 .abouthov:hover {
-    color:rgb(197, 184, 184);
+    color:rgb(59, 73, 59); 
 }
 
 .projectshov:hover {
-    color:rgb(197, 184, 184);
+    color:rgb(59, 73, 59); 
+    
 }
 
 .contacthov:hover {
-    color:rgb(197, 184, 184);
+    color:rgb(59, 73, 59); 
+    
 }
 
 .nav-bar li {

@@ -25,7 +25,7 @@ const NavBar = () => {
       </Link>
       <ul className={click ? "nav-bar active" : "nav-bar"}>
         <li>
-          <Link className="homehov"to="/">Home</Link>
+          <Link className="homehov" to="/">Home</Link>
         </li>
         <li>
           <Link className="abouthov" to="/about">About</Link>

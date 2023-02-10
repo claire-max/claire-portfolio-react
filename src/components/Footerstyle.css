@@ -16,7 +16,7 @@
    }
 
    .letsconnect:hover {
-    color:rgb(197, 184, 184);
+    color:white;
    }
 
    .Socialss {
@@ -25,3 +25,6 @@
     padding-inline: 1rem;
   } 
  
+.cali:hover{
+   color:white;
+}
