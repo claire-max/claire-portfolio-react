@@ -60,17 +60,23 @@
         <Carousel.Caption>
           <h3>Back-End Proficiencies</h3>
           <p>
-            <a href="https://www.ibm.com/topics/api"><AiOutlineApi size={40} style={
+            <a href="https://www.ibm.com/topics/api"><AiOutlineApi size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
            {color:"#fff", marginRight:"2rem" }}/></a>
-           <a href="https://nodejs.org/en/"><FaNodeJs size={40} style={
+           <a href="https://nodejs.org/en/"><FaNodeJs size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
               {color:"#fff", marginRight:"2rem" }}/></a>
-               <a href="https://expressjs.com/"><SiExpress size={40} style={
+               <a href="https://expressjs.com/"><SiExpress size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
                 {color:"#fff", marginRight:"2rem" }}/></a>
-                 <a href="https://www.mysql.com/"><SiMysql size={40} style={
+                 <a href="https://www.mysql.com/"><SiMysql size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
                   {color:"#fff", marginRight:"2rem" }}/></a>
-                   <a href="https://sequelize.org/"><SiSequelize size={40} style={
+                   <a href="https://sequelize.org/"><SiSequelize size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
                     {color:"#fff", marginRight:"2rem" }}/></a>
-                    <a href="https://www.mongodb.com/"><SiMongodb size={40} style={
+                    <a href="https://www.mongodb.com/"><SiMongodb size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
                       {color:"#fff", marginRight:"2rem" }}/></a>
                       </p>
         </Carousel.Caption>
