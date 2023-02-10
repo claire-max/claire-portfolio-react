@@ -10,10 +10,12 @@ const Footer = () => {
       }}>
         <a className="letsconnect">Let's Connect</a>
 <div className="Socialss"> 
-             <a href="https://github.com/claire-max"><BsGithub size={30} style={
+             <a href="https://github.com/claire-max"><BsGithub size={30} onMouseOver={({target})=>target.style.color="#24282f"}
+          onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff", marginRight:"1rem" }}/></a> 
            
-             <a href="https://www.linkedin.com/in/claire-freeman-958b16156/"><BsLinkedin size={30} style={
+             <a href="https://www.linkedin.com/in/claire-freeman-958b16156/"><BsLinkedin size={30} onMouseOver={({target})=>target.style.color="#0277b4"}
+          onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff"}}/></a>
            
       </div>
@@ -29,11 +31,6 @@ const Footer = () => {
                     California,CA 
                   </a>
                 </li>
-                {/* <li>
-                  <a href='#!' className='text-white'>
-                    916 934 9540
-                  </a>
-                </li> */}
                 <li>
                   <a href='#!' className='text-white'>
                     clairefreeman528@gmail.com
