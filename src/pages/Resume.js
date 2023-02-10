@@ -28,17 +28,24 @@
         <Carousel.Caption>
           <h3>Front-End Proficiencies</h3>
           <p>
-          <a href="https://www.w3schools.com/html/"><FaHtml5 size={40} style={
+          <a className="Html5" href="https://www.w3schools.com/html/"><FaHtml5 size={40} onMouseOver={({target})=>target.style.color="#ff8a8a"}
+          onMouseOut={({target})=>target.style.color="white"}
+   style={
+            {color:"#fff", marginRight:"2rem", hover:"#333"}}/></a>
+            <a href="https://www.w3schools.com/css/"><FaCss3Alt size={40} onMouseOver={({target})=>target.style.color="#87c1ff"}
+          onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff", marginRight:"2rem" }}/></a>
-            <a href="https://www.w3schools.com/css/"><FaCss3Alt size={40} style={
+            <a href="https://www.w3schools.com/js/"><FaJs size={40} onMouseOver={({target})=>target.style.color="fdfd96"}
+          onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff", marginRight:"2rem" }}/></a>
-            <a href="https://www.w3schools.com/js/"><FaJs size={40} style={
+            <a href="https://jquery.com/"><DiJqueryLogo size={40} onMouseOver={({target})=>target.style.color="blue"}
+          onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff", marginRight:"2rem" }}/></a>
-            <a href="https://jquery.com/"><DiJqueryLogo size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/></a>
-            <a href="https://reactjs.org/"><FaReact size={40} style={
+            <a href="https://reactjs.org/"><FaReact size={40}  onMouseOver={({target})=>target.style.color="#61dbfb"}
+          onMouseOut={({target})=>target.style.color="white"} style={
               {color:"#fff", marginRight:"2rem" }}/></a>
-            <a href="https://getbootstrap.com/"><BsBootstrap size={40} style={
+            <a href="https://getbootstrap.com/"><BsBootstrap size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
                 {color:"#fff", marginRight:"2rem" }}/></a>
                 </p>
         </Carousel.Caption>
