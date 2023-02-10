@@ -69,7 +69,7 @@
                <a href="https://expressjs.com/"><SiExpress size={40} onMouseOver={({target})=>target.style.color="#3a4775"}
           onMouseOut={({target})=>target.style.color="white"} style={
                 {color:"#fff", marginRight:"2rem" }}/></a>
-                 <a href="https://www.mysql.com/"><SiMysql size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+                 <a href="https://www.mysql.com/"><SiMysql size={40} onMouseOver={({target})=>target.style.color="#016189"}
           onMouseOut={({target})=>target.style.color="white"} style={
                   {color:"#fff", marginRight:"2rem" }}/></a>
                    <a href="https://sequelize.org/"><SiSequelize size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
