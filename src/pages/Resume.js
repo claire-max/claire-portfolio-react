@@ -60,7 +60,7 @@
         <Carousel.Caption>
           <h3>Back-End Proficiencies</h3>
           <p>
-            <a href="https://www.ibm.com/topics/api"><AiOutlineApi size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+            <a href="https://www.ibm.com/topics/api"><AiOutlineApi size={40} onMouseOver={({target})=>target.style.color="#A9A9A9"}
           onMouseOut={({target})=>target.style.color="white"} style={
            {color:"#fff", marginRight:"2rem" }}/></a>
            <a href="https://nodejs.org/en/"><FaNodeJs size={40} onMouseOver={({target})=>target.style.color="#83cd28"}
@@ -72,10 +72,10 @@
                  <a href="https://www.mysql.com/"><SiMysql size={40} onMouseOver={({target})=>target.style.color="#016189"}
           onMouseOut={({target})=>target.style.color="white"} style={
                   {color:"#fff", marginRight:"2rem" }}/></a>
-                   <a href="https://sequelize.org/"><SiSequelize size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+                   <a href="https://sequelize.org/"><SiSequelize size={40} onMouseOver={({target})=>target.style.color="#3b76c4"}
           onMouseOut={({target})=>target.style.color="white"} style={
                     {color:"#fff", marginRight:"2rem" }}/></a>
-                    <a href="https://www.mongodb.com/"><SiMongodb size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+                    <a href="https://www.mongodb.com/"><SiMongodb size={40} onMouseOver={({target})=>target.style.color="#125742"}
           onMouseOut={({target})=>target.style.color="white"} style={
                       {color:"#fff", marginRight:"2rem" }}/></a>
                       </p>
