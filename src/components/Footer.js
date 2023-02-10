@@ -19,7 +19,7 @@ const Footer = () => {
       </div>
 </section>
 
-
+<br></br>
 <section className="footer-info-left">
 
 <section className="footer-info_contactlist">
@@ -29,11 +29,11 @@ const Footer = () => {
                     California,CA 
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href='#!' className='text-white'>
                     916 934 9540
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a href='#!' className='text-white'>
                     clairefreeman528@gmail.com

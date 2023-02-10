@@ -27,13 +27,20 @@
         />
         <Carousel.Caption>
           <h3>Front-End Proficiencies</h3>
-          <p><FaHtml5 size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/><FaCss3Alt size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/><FaJs size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/><DiJqueryLogo size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/><FaReact size={40} style={
-              {color:"#fff", marginRight:"2rem" }}/><BsBootstrap size={40} style={
-                {color:"#fff", marginRight:"2rem" }}/></p>
+          <p>
+          <a href="https://www.w3schools.com/html/"><FaHtml5 size={40} style={
+            {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://www.w3schools.com/css/"><FaCss3Alt size={40} style={
+            {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://www.w3schools.com/js/"><FaJs size={40} style={
+            {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://jquery.com/"><DiJqueryLogo size={40} style={
+            {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://reactjs.org/"><FaReact size={40} style={
+              {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://getbootstrap.com/"><BsBootstrap size={40} style={
+                {color:"#fff", marginRight:"2rem" }}/></a>
+                </p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -45,13 +52,20 @@
 
         <Carousel.Caption>
           <h3>Back-End Proficiencies</h3>
-          <p><AiOutlineApi size={40} style={
-            {color:"#fff", marginRight:"2rem" }}/><FaNodeJs size={40} style={
-              {color:"#fff", marginRight:"2rem" }}/><SiExpress size={40} style={
-                {color:"#fff", marginRight:"2rem" }}/><SiMysql size={40} style={
-                  {color:"#fff", marginRight:"2rem" }}/><SiSequelize size={40} style={
-                    {color:"#fff", marginRight:"2rem" }}/><SiMongodb size={40} style={
-                      {color:"#fff", marginRight:"2rem" }}/></p>
+          <p>
+            <a href="https://www.ibm.com/topics/api"><AiOutlineApi size={40} style={
+           {color:"#fff", marginRight:"2rem" }}/></a>
+           <a href="https://nodejs.org/en/"><FaNodeJs size={40} style={
+              {color:"#fff", marginRight:"2rem" }}/></a>
+               <a href="https://expressjs.com/"><SiExpress size={40} style={
+                {color:"#fff", marginRight:"2rem" }}/></a>
+                 <a href="https://www.mysql.com/"><SiMysql size={40} style={
+                  {color:"#fff", marginRight:"2rem" }}/></a>
+                   <a href="https://sequelize.org/"><SiSequelize size={40} style={
+                    {color:"#fff", marginRight:"2rem" }}/></a>
+                    <a href="https://www.mongodb.com/"><SiMongodb size={40} style={
+                      {color:"#fff", marginRight:"2rem" }}/></a>
+                      </p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
