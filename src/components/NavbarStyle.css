@@ -19,8 +19,20 @@
 
 }
 
-.nav-bar:hover {
-   color:aquamarine;
+.homehov:hover {
+    color:rgb(197, 184, 184);  
+}
+
+.abouthov:hover {
+    color:rgb(197, 184, 184);
+}
+
+.projectshov:hover {
+    color:rgb(197, 184, 184);
+}
+
+.contacthov:hover {
+    color:rgb(197, 184, 184);
 }
 
 .nav-bar li {

@@ -31,7 +31,7 @@
           <a className="Html5" href="https://www.w3schools.com/html/"><FaHtml5 size={40} onMouseOver={({target})=>target.style.color="#ff8a8a"}
           onMouseOut={({target})=>target.style.color="white"}
    style={
-            {color:"#fff", marginRight:"2rem", hover:"#333"}}/></a>
+            {color:"#fff", marginRight:"2rem"}}/></a>
             <a href="https://www.w3schools.com/css/"><FaCss3Alt size={40} onMouseOver={({target})=>target.style.color="#87c1ff"}
           onMouseOut={({target})=>target.style.color="white"} style={
             {color:"#fff", marginRight:"2rem" }}/></a>

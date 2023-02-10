@@ -15,6 +15,10 @@
     font-size: larger;
    }
 
+   .letsconnect:hover {
+    color:rgb(197, 184, 184);
+   }
+
    .Socialss {
     display: flex;
     justify-content:center;
