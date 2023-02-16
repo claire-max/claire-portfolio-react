@@ -22,7 +22,7 @@ This challenge is to create a portfolio, using my React skills to help set apart
   1. Create Claire Portfolio repo.
   2. Install dependencies 
   * Start the server
-  ``` npm start```
+  ``` npm run start```
   4. Now you are ready to see my portfolio!
 
 
