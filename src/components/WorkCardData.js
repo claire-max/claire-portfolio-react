@@ -46,7 +46,7 @@ const ProjectCardData = [
     },
 
     {
-        imgsrc: pro3,
+        imgsrc: pro6,
         title: "RobinGood Foods",
         text: "",
         website: "https://claire-max.github.io/urban-sniffle/",

@@ -1,7 +1,6 @@
 import "./PortfoliocardStyle.css";
 import Portfoliocard from "./Portfoliocard";
 import WorkCardData from "./WorkCardData";
-
 import React from 'react'
 
 const Work = () => {
@@ -18,7 +17,6 @@ const Work = () => {
                     text={val.text}
                     website={val.website}
                     github={val.github}
-
                      />
                 );
             })}
