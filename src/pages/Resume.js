@@ -3,6 +3,7 @@
  import Navbar from "../components/Navbar";
  import Footer from "../components/Footer";
  import Carousel from 'react-bootstrap/Carousel';
+ import Resumefile from "../assets/img/ClaireFreemanResume.pdf";
  
  import {FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
  import { DiJqueryLogo } from "react-icons/di";
@@ -87,10 +88,9 @@
         />
 
         <Carousel.Caption>
-          <a href= "https://www.linkedin.com/in/claire-freeman-958b16156/" className="btn">Download Resume</a>
-          <p>
+    
+          <a href={Resumefile} className="btn">Download Resume</a>
 
-          </p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

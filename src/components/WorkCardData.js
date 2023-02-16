@@ -3,6 +3,7 @@ import pro2 from "../assets/img/Project2.png";
 import pro3 from "../assets/img/Project3.png";
 import pro4 from "../assets/img/Project4.png";
 import pro5 from "../assets/img/Project5.gif";
+import pro6 from "../assets/img/Project1.png";
 
 const ProjectCardData = [
     {
