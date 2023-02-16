@@ -1,7 +1,6 @@
  import React from 'react';
  import "../components/resumestyle.css";
  import Navbar from "../components/Navbar";
-
  import Footer from "../components/Footer";
  import Carousel from 'react-bootstrap/Carousel';
  
