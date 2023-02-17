@@ -4,6 +4,7 @@
  import Footer from "../components/Footer";
  import Carousel from 'react-bootstrap/Carousel';
  import Resumefile from "../assets/img/ClaireFreemanResume.pdf";
+ import Resumepge from "../assets/img/Resumepge.jpg";
  
  import {FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
  import { DiJqueryLogo } from "react-icons/di";
@@ -84,7 +85,7 @@
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+          src={Resumepge} 
         />
 
         <Carousel.Caption>
@@ -103,3 +104,4 @@
 
     export default Resume;
     
+    // https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
