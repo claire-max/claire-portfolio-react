@@ -3,7 +3,7 @@ import pro2 from "../assets/img/Project2.png";
 import pro3 from "../assets/img/Project3.png";
 import pro4 from "../assets/img/Project4.png";
 import pro5 from "../assets/img/Project5.gif";
-import pro6 from "../assets/img/waiting.jpg";
+import pro6 from "../assets/img/Project6.png";
 
 const ProjectCardData = [
     {
@@ -48,10 +48,10 @@ const ProjectCardData = [
 
     {
         imgsrc: pro6,
-        title: "New Project Coming Soon",
+        title: "Reelflix",
         text: "",
-        website: "https://claire-max.github.io/urban-sniffle/",
-        github:"https://github.com/claire-max/RobinGoodFoods",
+        website: "https://reelflix-a49f9.web.app",
+        github:"https://github.com/claire-max/reelflix",
     },
 
 ];
