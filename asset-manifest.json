@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/claire-portfolio-react/static/css/main.e9cf5736.css",
-    "main.js": "/claire-portfolio-react/static/js/main.71449bad.js",
+    "main.css": "/claire-portfolio-react/static/css/main.51b51c37.css",
+    "main.js": "/claire-portfolio-react/static/js/main.5fe22320.js",
     "static/media/Resumepge.jpg": "/claire-portfolio-react/static/media/Resumepge.c461b992235ae999fa34.jpg",
     "static/media/backproject.jpg": "/claire-portfolio-react/static/media/backproject.f1df2d90aa19c6af0aed.jpg",
     "static/media/Project6.png": "/claire-portfolio-react/static/media/Project6.bb78ac2fed59b1b96ff0.png",
@@ -14,11 +14,11 @@
     "static/media/Project2.png": "/claire-portfolio-react/static/media/Project2.128100f191948eda53d4.png",
     "static/media/ClaireFreemanResume.pdf": "/claire-portfolio-react/static/media/ClaireFreemanResume.295eb7ab253d2dd5d256.pdf",
     "index.html": "/claire-portfolio-react/index.html",
-    "main.e9cf5736.css.map": "/claire-portfolio-react/static/css/main.e9cf5736.css.map",
-    "main.71449bad.js.map": "/claire-portfolio-react/static/js/main.71449bad.js.map"
+    "main.51b51c37.css.map": "/claire-portfolio-react/static/css/main.51b51c37.css.map",
+    "main.5fe22320.js.map": "/claire-portfolio-react/static/js/main.5fe22320.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9cf5736.css",
-    "static/js/main.71449bad.js"
+    "static/css/main.51b51c37.css",
+    "static/js/main.5fe22320.js"
   ]
 }
