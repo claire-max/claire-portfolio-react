@@ -11,7 +11,7 @@
  import {  BsBootstrap } from "react-icons/bs";
  import { AiOutlineApi } from "react-icons/ai";
  import { SiExpress, SiMysql, SiSequelize, SiMongodb } from "react-icons/si";
-
+ import {  TbBrandNextjs } from "react-icons/tb";
  function Resume() {
   return (
     <div>
@@ -46,6 +46,9 @@
           onMouseOut={({target})=>target.style.color="white"} style={
               {color:"#fff", marginRight:"2rem" }}/></a>
             <a href="https://getbootstrap.com/"><BsBootstrap size={40} onMouseOver={({target})=>target.style.color="#742cfc"}
+          onMouseOut={({target})=>target.style.color="white"} style={
+                {color:"#fff", marginRight:"2rem" }}/></a>
+            <a href="https://nextjs.org/"><TbBrandNextjs size={40} onMouseOver={({target})=>target.style.color="black"}
           onMouseOut={({target})=>target.style.color="white"} style={
                 {color:"#fff", marginRight:"2rem" }}/></a>
                 </p>
