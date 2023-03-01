@@ -17,10 +17,10 @@ const ProjectCardData = [
 
     {
         imgsrc: pro5,
-        title: "PIE",
+        title: "Pie",
         text: "",
-        website: "https://note-app123553.herokuapp.com/",
-        github:"https://github.com/claire-max/pie",
+        website: "https://pieapp.vercel.app/",
+        github:"https://github.com/claire-max/pieapp",
      
     },
 
