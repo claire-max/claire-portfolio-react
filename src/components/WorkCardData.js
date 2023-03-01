@@ -2,7 +2,7 @@ import pro1 from "../assets/img/Project1.png";
 import pro2 from "../assets/img/Project2.png";
 import pro3 from "../assets/img/Project3.png";
 import pro4 from "../assets/img/Project4.png";
-import pro5 from "../assets/img/Project5.gif";
+import pro5 from "../assets/img/Project5.png";
 import pro6 from "../assets/img/Project6.png";
 
 const ProjectCardData = [
@@ -40,10 +40,10 @@ const ProjectCardData = [
 
     {
         imgsrc: pro5,
-        title: "Note-Taker",
+        title: "PIE",
         text: "",
         website: "https://note-app123553.herokuapp.com/",
-        github:"https://github.com/claire-max/Note-Taker",
+        github:"https://github.com/claire-max/pie",
     },
 
     {
