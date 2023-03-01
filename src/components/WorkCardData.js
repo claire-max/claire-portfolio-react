@@ -7,35 +7,12 @@ import pro6 from "../assets/img/Project6.png";
 
 const ProjectCardData = [
     {
-        imgsrc: pro1,
-        title: "Good To Gas",
-        text: "",
-        website: "https://claire-max.github.io/urban-sniffle/",
-        github:"https://github.com/claire-max/urban-sniffle",
-    },
-
-    {
-        imgsrc: pro2,
-        title: "Gameathon",
-        text: "",
-        website: "https://gameathon13.herokuapp.com/",
-        github:"https://github.com/claire-max/Gameathon",
-    },
-
-    {
         imgsrc: pro3,
         title: "RobinGood Foods",
         text: "",
         website: "https://immense-woodland-28981.herokuapp.com/",
         github:"https://github.com/claire-max/RobinGoodFoods",
-    },
 
-    {
-        imgsrc: pro4,
-        title: "First Portfolio",
-        text: "",
-        website: "https://claire-max.github.io/ClairePortfolio/",
-        github:"https://github.com/claire-max/ClairePortfolio",
     },
 
     {
@@ -44,6 +21,16 @@ const ProjectCardData = [
         text: "",
         website: "https://note-app123553.herokuapp.com/",
         github:"https://github.com/claire-max/pie",
+     
+    },
+
+    {
+        imgsrc: pro2,
+        title: "Gameathon",
+        text: "",
+        website: "https://gameathon13.herokuapp.com/",
+        github:"https://github.com/claire-max/Gameathon",
+
     },
 
     {
@@ -52,6 +39,24 @@ const ProjectCardData = [
         text: "",
         website: "https://reelflix-a49f9.web.app",
         github:"https://github.com/claire-max/reelflix",
+       
+    },
+
+    {
+        imgsrc: pro1,
+        title: "Good To Gas",
+        text: "",
+        website: "https://claire-max.github.io/urban-sniffle/",
+        github:"https://github.com/claire-max/urban-sniffle",
+        
+    },
+
+    {
+        imgsrc: pro4,
+        title: "First Portfolio",
+        text: "",
+        website: "https://claire-max.github.io/ClairePortfolio/",
+        github:"https://github.com/claire-max/ClairePortfolio",
     },
 
 ];
