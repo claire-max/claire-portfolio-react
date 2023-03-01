@@ -7,6 +7,7 @@
   * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
+  * [Preview](#preview)
   * [Deployed Link](#deployedlink)
   * [Questions](#questions)
 
@@ -25,10 +26,13 @@ This challenge is to create a portfolio, using my React skills to help set apart
   ``` npm run start```
   4. Now you are ready to see my portfolio!
 
+  ## Preview
+  START OF BOOTCAMP:
 
-
+  ![Alt Text](./src/assets/img/Startbootcamp.png)
 
   
+  AFTER GRADUATING BOOTCAMP:
    
   ![Alt Text](./src/assets/img/Screenshot.png)
 
