@@ -51,8 +51,14 @@
 
  .content .btn {
     margin: 1rem 0 rem;
+    flex-wrap: wrap;
     align-items: center;
     border-radius: 15px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
 } 
 
 @media screen and (max-width:640px) {
@@ -65,4 +71,13 @@
         font-size: 1.4rem;
     
     }
+}
+
+.btn 
+.btn btn-light{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
 }
