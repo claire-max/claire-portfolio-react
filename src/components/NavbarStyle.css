@@ -21,6 +21,7 @@
 
 .homehov:hover {
     color:rgb(59, 73, 59); 
+   
     
 }
 
@@ -45,6 +46,9 @@
 
 .hamburger {
     display: initial;
+   
+ 
+
 }
 
 @media screen and (max-width: 1040px) {
@@ -63,6 +67,7 @@
     }
     .nav-bar.active {
         left:0;
+        padding-right: 3rem;
     }
 
     .nav-bar li {
