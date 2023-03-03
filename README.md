@@ -28,6 +28,7 @@ This challenge is to create a portfolio, using my React skills to help set apart
 
   ## Preview
   START OF BOOTCAMP:
+  https://claire-max.github.io/ClairePortfolio/
 
   ![Alt Text](./src/assets/img/Startbootcamp.png)
 
