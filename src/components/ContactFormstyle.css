@@ -26,3 +26,17 @@ form input, form textarea {
   border-radius: 15px 15px;
   align-items: center;
 }
+
+.AlertMessage {
+
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  padding-right: 3px;
+  color:white;
+  background-color: rgb(88, 117, 88);
+  text-align: center;
+
+
+
+}

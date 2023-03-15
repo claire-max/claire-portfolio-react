@@ -1,11 +1,11 @@
 import "./ContactFormstyle.css";
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 const ContactForm = () => {
 
   const form = useRef();
-
+const [status, setStatus] = useState('')
   const sendEmail = (e) => {
     e.preventDefault();
 
@@ -17,15 +17,17 @@ const ContactForm = () => {
      'nQKANl-CQdYVdIHnK')
       .then((result) => {
           console.log(result.text);
+          setStatus('SUCCESS');
       }, (error) => {
           console.log(error.text);
 
       });
-      alert("Message Sent!")
+      // alert("Message Sent!")
   e.target.reset()
   }
   return (
     <div className="form">
+      {status && renderAlert()}
        <form ref={form} onSubmit={sendEmail} >
         <label>Name</label>
         <input type="text" name="user_name"></input>
@@ -39,6 +41,12 @@ const ContactForm = () => {
     </div>
   );
 };
+
+const renderAlert = () => (
+  <div className="AlertMessage">
+    <p>Message Sent!</p>
+  </div>
+)
 
 export default ContactForm;
 
