@@ -5,7 +5,7 @@ import React from 'react'
 const Portfoliocard = (props) => {
   return (
     <div className="project-card">
-        <img className="projectimg" src={props.imgsrc} alt="image" /> 
+        <img className="projectimg" src={props.imgsrc} alt="projectimage" /> 
         <h2 className="project-title">{props.title}</h2>
         <div className="pro-details">
             <p>{props.text}</p>
