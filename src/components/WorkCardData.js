@@ -6,6 +6,15 @@ import pro5 from "../assets/img/Project5.png";
 import pro6 from "../assets/img/Project6.png";
 
 const ProjectCardData = [
+
+    {
+        imgsrc: pro4,
+        title: "Main Street Car Wash",
+        text: "",
+        website: "https://mainstreetcarwash-86a46.web.app/",
+        github:"https://github.com/claire-max/mainstreet",
+    },
+
     {
         imgsrc: pro3,
         title: "RobinGood Foods",
@@ -24,14 +33,7 @@ const ProjectCardData = [
      
     },
 
-    {
-        imgsrc: pro2,
-        title: "Gameathon",
-        text: "",
-        website: "https://gameathon13.herokuapp.com/",
-        github:"https://github.com/claire-max/Gameathon",
-
-    },
+  
 
     {
         imgsrc: pro6,
@@ -43,6 +45,15 @@ const ProjectCardData = [
     },
 
     {
+        imgsrc: pro2,
+        title: "Gameathon",
+        text: "",
+        website: "https://gameathon13.herokuapp.com/",
+        github:"https://github.com/claire-max/Gameathon",
+
+    },
+
+    {
         imgsrc: pro1,
         title: "Good To Gas",
         text: "",
@@ -51,13 +62,7 @@ const ProjectCardData = [
         
     },
 
-    {
-        imgsrc: pro4,
-        title: "First Portfolio",
-        text: "",
-        website: "https://claire-max.github.io/ClairePortfolio/",
-        github:"https://github.com/claire-max/ClairePortfolio",
-    },
+   
 
 ];
 
