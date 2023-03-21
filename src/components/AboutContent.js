@@ -8,7 +8,7 @@ import {Link} from "react-router-dom";
    return <div className="about">
       <div className="left">
          <h1>Get to Know Me</h1>
-     <p> I am expanding my knowledge in the world of web development who has a passion for website design and problem solving. <br /> <br />
+     <p> 
      I have a strong background in HTML, CSS, JavaScript, React, Next, Node, jQuery, Express, Handlebars, SQL, API, MongoDB, Tailwind, and Bootstrap. Passionate about utilizing UX/UI principles to create the best user experience. I am a Full-Stack Development graduate from UC Berkeley Extension with a degree in Economics from Clemson University eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. Take a look at my work and get in touch! 
                 </p> 
      <Link to="/contact">
