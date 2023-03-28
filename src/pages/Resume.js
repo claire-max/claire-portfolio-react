@@ -8,10 +8,10 @@
  
  import {FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
  import { DiJqueryLogo } from "react-icons/di";
- import {  BsBootstrap } from "react-icons/bs";
+ import { BsBootstrap } from "react-icons/bs";
  import { AiOutlineApi } from "react-icons/ai";
  import { SiExpress, SiMysql, SiSequelize, SiMongodb } from "react-icons/si";
- import {  TbBrandNextjs } from "react-icons/tb";
+ import { TbBrandNextjs } from "react-icons/tb";
  function Resume() {
   return (
     <div>
