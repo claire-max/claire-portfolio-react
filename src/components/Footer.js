@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Footerstyle.css"
-import {BsGithub, BsLinkedin} from 'react-icons/bs';
+import { BsGithub, BsLinkedin } from 'react-icons/bs';
 const Footer = () => {
   return (
     <section className="footer">

@@ -22,7 +22,7 @@ const [status, setStatus] = useState('')
           console.log(error.text);
 
       });
-      // alert("Message Sent!")
+     
   e.target.reset()
   }
   return (

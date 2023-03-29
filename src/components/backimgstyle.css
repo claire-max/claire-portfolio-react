@@ -58,7 +58,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    /* display: flex; */
+   
 } 
 
 @media screen and (max-width:640px) {
