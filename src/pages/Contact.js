@@ -10,7 +10,7 @@ const Contact = () => {
        <Navbar />
        <HeroImg  heading="CONTACT" text="Let's Talk"/>
        <ContactForm />
-      <Footer />
+       <Footer />
     </div>
   )
 }
