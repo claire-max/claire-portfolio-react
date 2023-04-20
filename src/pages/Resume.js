@@ -3,7 +3,7 @@
  import Navbar from "../components/Navbar";
  import Footer from "../components/Footer";
  import Carousel from 'react-bootstrap/Carousel';
- import Resumefile from "../assets/img/ClaireFreemanResume .pdf";
+ import Resumefile from "../assets/img/ClaireFreemanResume.pdf";
  import Resumepge from "../assets/img/Resumepge.jpg";
  
  import {FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
