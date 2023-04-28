@@ -49,3 +49,8 @@
     z-index:5;
 } 
 
+
+.profilepic{
+    width: 80%;
+    border-radius: 2rem;
+}

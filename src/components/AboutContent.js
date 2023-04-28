@@ -1,6 +1,6 @@
 import "./AboutContentstyle.css";
 import {Link} from "react-router-dom";
- import Avatar from "../assets/img/Avatar.png";
+ import Avatar from "../assets/img/Profile.mp4";
 
  import React from 'react';
 
@@ -17,8 +17,17 @@ import {Link} from "react-router-dom";
          </div> 
          <div className="right">
             <div className="img-container">
-                 <img src={Avatar} 
-                 className="img" alt="true"/>
+            <video className="profilepic" autoPlay loop muted>
+    <source
+      src={Avatar} 
+      
+      type="video/mp4"
+      
+    />
+  </video>
+ 
+                 {/* <img src={Avatar} 
+                 className="img" alt="true"/> */}
                 </div>
             </div>
         </div> 
