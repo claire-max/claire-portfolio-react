@@ -26,8 +26,7 @@ import {Link} from "react-router-dom";
     />
   </video>
  
-                 {/* <img src={Avatar} 
-                 className="img" alt="true"/> */}
+  
                 </div>
             </div>
         </div> 
