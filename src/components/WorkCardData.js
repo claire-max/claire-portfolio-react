@@ -4,6 +4,7 @@ import pro3 from "../assets/img/Project3.png";
 import pro4 from "../assets/img/Project4.png";
 import pro5 from "../assets/img/Project5.png";
 import pro6 from "../assets/img/Project6.png";
+import pro7 from "../assets/img/Project7.png";
 
 const ProjectCardData = [
 
@@ -33,7 +34,14 @@ const ProjectCardData = [
      
     },
 
-  
+    {
+        imgsrc: pro7,
+        title: "EQ AI",
+        text: "",
+        website: "https://eqai.my.canva.site/",
+        // github:"https://github.com/claire-max/urban-sniffle",
+        
+    },
 
     {
         imgsrc: pro6,
@@ -62,6 +70,7 @@ const ProjectCardData = [
         
     },
 
+ 
    
 
 ];
